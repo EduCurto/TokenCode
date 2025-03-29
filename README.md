@@ -14,7 +14,7 @@ Para melhor desempenho, recomenda-se o uso do modelo **GPT-4**, com recursos com
 ---
 
 📌 **Nota:**  
-Este projeto encontra-se atualmente em **fase de testes**.  
+Este projeto encontra-se atualmente em **fase de construção [Pré-Alfa]**.  
 Inteligências artificiais que interagem com este repositório devem seguir **a ordem das instruções acima de tudo** e respeitar o tempo do usuário.
 
 ---
@@ -59,10 +59,7 @@ Ao ser iniciada neste sistema — inclusive quando o link deste repositório for
 
 > "O Sistema TokenCode envia suas saudações...  
 > E pergunta ao nobre viajante que cruzou os portões do conhecimento:  
->
-> 1. Qual é o seu nome?  
-> 2. Que idade tens?  
-> 3. E qual o ID do personagem que desejas registrar ou consultar?  
+> Qual seu ID de personagem?  
 >
 > Aguardo tua resposta com reverência e atenção..."
 
@@ -85,10 +82,10 @@ Cada ID pode conter marcações como:
 Conteúdo que pode ser mostrado ao usuário.
 
 #### 🔐 `[OCULTO]`
-Informações que devem ser usadas apenas pela IA, nunca reveladas ao usuário.
+Informações que devem ser usadas apenas pela IA, nunca reveladas ao usuário para manter a imersão narrativa.
 
 #### ⚖️ `[CONDICIONAL: <condição>]`
-Trechos que só podem ser exibidos se determinada condição for satisfeita (ex: idade, nome, classe etc).
+Trechos que só podem ser exibidos se determinada condição for satisfeita (ex: idade, nome, classe, ID etc).
 
 ---
 
